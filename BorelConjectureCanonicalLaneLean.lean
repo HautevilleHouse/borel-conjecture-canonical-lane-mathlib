@@ -5,3 +5,4 @@ import BorelConjectureCanonicalLaneLean.SourceDependencies
 import BorelConjectureCanonicalLaneLean.Formalization
 import BorelConjectureCanonicalLaneLean.ReviewerBridge
 import BorelConjectureCanonicalLaneLean.TheoremStatement
+import BorelConjectureCanonicalLaneLean.MathlibStatement
