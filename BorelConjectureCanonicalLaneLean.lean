@@ -1,0 +1,7 @@
+-- This module is the root of the BorelConjectureCanonicalLaneLean Lean proof package.
+import BorelConjectureCanonicalLaneLean.Basic
+import BorelConjectureCanonicalLaneLean.SourcePackage
+import BorelConjectureCanonicalLaneLean.SourceDependencies
+import BorelConjectureCanonicalLaneLean.Formalization
+import BorelConjectureCanonicalLaneLean.ReviewerBridge
+import BorelConjectureCanonicalLaneLean.TheoremStatement
